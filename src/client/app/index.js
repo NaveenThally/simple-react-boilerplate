@@ -10,7 +10,7 @@ class App extends React.Component {
   render() {
     return (
           <div>
-            <h1>Simple-react-boilerplate by navigate</h1>
+            <h1>Simple-react-boilerplate by React Enthusiast</h1>
             <p>You can write components within the App folder and import and add it here</p>
           </div>
       );
